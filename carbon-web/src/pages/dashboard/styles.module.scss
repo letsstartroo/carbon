@@ -1,0 +1,35 @@
+.cardTop {
+    background: white;
+    padding: 16px;
+    width: 100%;
+    position: relative;
+
+    .value {
+        font-size: 36px;
+        margin: 0;
+    }
+
+    .title {
+        font-size: 16px;
+        margin: 0;
+        color: #666;
+    }
+
+    .icon {
+        position: absolute;
+        right: 50px;
+        top: 20px;
+        font-size: 60px;
+        opacity: .4;
+    }
+}
+
+.cardGrafico {
+    background: white;
+    padding: 16px;
+
+    .titleGrafico {
+        text-align: center;
+        margin: 10px 0;
+    }
+}
